@@ -11,4 +11,3 @@ y = my_data[:,1].reshape(-1,1)
 
 plt.scatter(my_data[:,0].reshape(-1,1),y)
 plt.show()
-###
